@@ -9,6 +9,7 @@ h1 {
   text-align: center;
 }
 
-img {
-  
+img.center {
+    display: block;
+    margin: 0 auto;
 }
